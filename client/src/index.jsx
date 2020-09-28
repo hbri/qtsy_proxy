@@ -16,7 +16,7 @@ class App extends React.Component {
         <div id="seller">
           <Seller />
         </div>
-        <div id="productBox">
+        <div>
           <ProductList />
         </div>
       </div>
